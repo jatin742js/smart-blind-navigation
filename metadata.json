@@ -1,0 +1,6 @@
+{
+  "name": "Smart Blind Stick Caregiver Portal",
+  "description": "Full-stack monitoring dashboard and ESP32 IoT emergency system for smart blind navigation sticks, featuring real-time GPS tracking, obstacle alerts, and emergency dispatch.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
